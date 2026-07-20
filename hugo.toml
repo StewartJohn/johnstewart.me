@@ -1,0 +1,43 @@
+baseURL = "https://johnstewart.me/"
+languageCode = "en-us"
+title = "John Stewart"
+theme = "PaperMod"
+timeZone = "America/Chicago"
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 12
+
+[params]
+description = "John Stewart — historian of science working in higher-ed IT. Field notes on education technology and essays on the history of science."
+author = "John Stewart"
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowBreadCrumbs = true
+ShowRssButtonInSectionTermList = true
+ShowCodeCopyButtons = true
+mainSections = ["it-edtech", "history"]
+
+[[menus.main]]
+name = "IT & EdTech"
+url = "/it-edtech/"
+weight = 10
+
+[[menus.main]]
+name = "History"
+url = "/history/"
+weight = 20
+
+[[menus.main]]
+name = "Publications"
+url = "/publications/"
+weight = 30
+
+[[menus.main]]
+name = "About / CV"
+url = "/about/"
+weight = 40
+
+[outputs]
+home = ["html", "rss"]
+section = ["html", "rss"]

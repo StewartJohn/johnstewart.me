@@ -1,0 +1,79 @@
+{{ define "main" }}
+<section class="home-intro">
+  <div class="intro-text">
+    <h1>Historian of science, working in higher&#8209;ed&nbsp;IT.</h1>
+    <p class="lede">
+      I run education technology systems — M365, Jamf&nbsp;Pro, Salesforce,
+      LMS integrations — and I study how scholarly knowledge gets made,
+      published, and preserved. This site holds both: field notes from
+      university IT, and essays on the history of science and the
+      infrastructure of scholarship.
+    </p>
+  </div>
+  {{ $headshot := resources.Get "images/headshot.jpg" }}
+  {{ if $headshot }}
+    {{ $small := $headshot.Fill "256x256 q85" }}
+    <img class="headshot" src="{{ $small.RelPermalink }}" width="128" height="128"
+         alt="Photo of John Stewart">
+  {{ else }}
+    <div class="headshot headshot-placeholder" role="img"
+         aria-label="Photo of John Stewart">Headshot<br>placeholder</div>
+  {{ end }}
+</section>
+
+<div class="doors">
+  {{ range $door := slice
+      (dict "section" "it-edtech" "label" "Field notes" "class" "edtech")
+      (dict "section" "history"   "label" "Essays"      "class" "history") }}
+    {{ $sec := $.Site.GetPage (printf "/%s" $door.section) }}
+    {{ $posts := where site.RegularPages "Section" $door.section }}
+    <section class="door door-{{ $door.class }}">
+      <p class="door-label">{{ $door.label }}</p>
+      <h2><a href="{{ $sec.RelPermalink }}">{{ $sec.Title }}</a></h2>
+      <p class="door-desc">{{ $sec.Description }}</p>
+      <ul>
+        {{ range first 3 $posts }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2006" }}</time>
+        </li>
+        {{ end }}
+        <li class="door-all"><a href="{{ $sec.RelPermalink }}">All {{ len $posts }} posts &rarr;</a></li>
+      </ul>
+    </section>
+  {{ end }}
+</div>
+
+<section class="home-about">
+  <h2>About</h2>
+  <p>
+    I earned a PhD in the history of science in 2013, then took the
+    alt-academic route: from digital humanities projects into instructional
+    technology, and from there into systems administration for a university
+    education-services organization. My historical research centers on
+    eighteenth-century chemistry — Joseph Black's lectures and
+    correspondence, the chemical communities of the Scottish Enlightenment,
+    and, more recently, how the era's science was entangled with slavery
+    and empire. The two halves of this site are less separate than they
+    look — both are about the tools scholars and teachers think with.
+  </p>
+  <p>
+    You can read my <a href="/publications/">publications</a>, skim the
+    <a href="/about/">CV</a>, or start with whichever door above looks
+    more like your world.
+  </p>
+</section>
+
+<footer class="home-links">
+  <div>
+    <a href="https://orcid.org/" rel="me">ORCID</a>
+    <a href="https://github.com/" rel="me">GitHub</a>
+    <a href="https://www.linkedin.com/" rel="me">LinkedIn</a>
+    <a href="/index.xml">RSS</a>
+  </div>
+  <div>
+    <a href="/personal/">Personal</a>
+    <a href="/colophon/">Colophon</a>
+  </div>
+</footer>
+{{ end }}

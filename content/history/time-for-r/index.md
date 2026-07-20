@@ -1,0 +1,37 @@
+---
+title: Time for R
+date: '2017-11-03T15:17:53+00:00'
+slug: time-for-r
+tags:
+- Digital Humanities
+- Doing History
+summary: Here at OU, there are at least 4 or 5 that teach introductory R. You can
+  take a statistics class, an economics class, a biological stats class, or a class
+  just on R as a programming language. R has…
+originalUrl: https://johnastewart.org/dh/time-for-r/
+archiveUrl: https://web.archive.org/web/20240719003752/https://johnastewart.org/dh/time-for-r/
+lastmod: '2019-04-18T19:14:07+00:00'
+cover:
+  image: Screen-Shot-2017-11-03-at-9.38.01-AM-1024x754.png
+  alt: ''
+---
+
+Here at OU, there are at least 4 or 5 that teach introductory R. You can take a statistics class, an economics class, a biological stats class, or a class just on R as a programming language. R has become one of the most commonly used languages for computational stats and data visualization, so it’s not surprising to see it pop up in a number of different departments. However, it has not yet made its way into the humanities.
+
+For those of us in the humanities then, I wanted to pull together a few online resources that can help you get started.
+
+My favorite introduction is was [TryR](http://tryr.codeschool.com/) from [Code School](https://www.codeschool.com/). This pirate themed introduction is was great for people with little coding experience. It walks walked you through basic expressions, variables, arrays, loops, and graphing in a lightly gamified, campy platform. *Unfortunately, it looks like Code School was bought out or rebranded, and this resource is no longer available.*
+
+[!\[Screen Shot of the Try R platform from Chapter 1\](Screen-Shot-2017-11-03-at-9.38.01-AM.png?resize=629%2C463&ssl=1)](Screen-Shot-2017-11-03-at-9.38.01-AM.png?ssl=1)
+
+In a recent blog post, Jesse Sadler from UCLA, offered a more targeted ‘ [Introduction to Network Analysis using R](https://www.jessesadler.com/post/network-analysis-with-r/).’ Jesse does a great job of explaining how nodes and edges come together in network graphs and how various R libraries make it relatively easy to produce these graphs. Jesse’s research involves mapping the [correspondence of the 16th-century Dutch merchant, Daniel van der Meulen](https://www.jessesadler.com/project/dvdm-correspondence/), which serves as a great example of the promise of R for DH research.
+
+[!\[Screen Shot of Jesse Sadler's network graphing research project\](Screen-Shot-2017-11-03-at-9.46.41-AM.png?resize=629%2C463&ssl=1)](Screen-Shot-2017-11-03-at-9.46.41-AM.png?ssl=1) Lincoln Mullen is currently composing an open textbook called [Computational Historical Thinking](http://dh-r.lincolnmullen.com/) which uses and teaches R. The resources he’s already assembled are fantastic, and his book serves as an excellent example of open-writing and review.
+
+[!\[Screen Shot of Lincoln Mullen's Computational Historical Thinking Website\](Screen-Shot-2017-11-03-at-10.04.52-AM.png?resize=629%2C485&ssl=1)](Screen-Shot-2017-11-03-at-10.04.52-AM.png?ssl=1)
+
+Less open but more complete, Matthew Jockers has produced a book and website with Springer called [Text Analysis with R for Students of Literature](http://www.matthewjockers.net/text-analysis-with-r-for-students-of-literature/). Taylor Arnold and Lauren Tilton also have a Springer book out called [Humanities Data in R](http://humanitiesdata.org/).
+
+Last, but certainly not least, are the workshops provided by Software Carpentry. Here at OU and throughout the world. [Software Carpentry](https://software-carpentry.org/) provides two day workshops that introduce command line programming, versioning (usually with Git and GitHub) and R. These workshops are great because they work from a very introductory level and are meant to ease people into coding and data management. The [group on OU’s campus](https://libraries.ou.edu/content/software-carpentry-workshop) is based out of the library and are particularly eager to help graduate students who are venturing into data analysis for the first time.
+
+If you haven’t tried out R yet, take a minute to poke around at one of the resources above and thinking about how you already use maps, graphs, and tables in your work. Rather than hand-drawing your next map or searching for something to represent a network graph, take the same time to learn a new skill.
