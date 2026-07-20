@@ -15,4 +15,8 @@ slavery and empire.
 
 CV coming soon.
 
-<!-- TODO: link PDF CV, ORCID, GitHub, LinkedIn -->
+Elsewhere: [ORCID](https://orcid.org/0000-0002-4751-4442) ·
+[GitHub](https://github.com/StewartJohn) ·
+[LinkedIn](https://www.linkedin.com/in/john-stewart-ou/)
+
+<!-- TODO: link PDF CV -->
