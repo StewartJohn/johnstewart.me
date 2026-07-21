@@ -1,10 +1,10 @@
 ---
-title: Reading List, 2019-2024
-date: '2026-07-20T00:00:00-05:00'
+title: Reading List
+date: 2026-07-20T00:00:00-05:00
 slug: reading-list
 tags:
-- Books
-- Reading
+  - Books
+  - Reading
 summary: A recovered reading log from the old site, tracking books read from 2019 through early 2024.
 originalUrl: https://johnastewart.org/reading-list/
 archiveUrl: https://web.archive.org/web/20240417003305/https://johnastewart.org/reading-list/
