@@ -14,8 +14,6 @@ cover:
   alt: Handwritten eighteenth-century lecture notes on the proper use of marle as fertilizer.
 ---
 
-![Handwritten eighteenth-century lecture notes on the quantity of marle to be used as fertilizer.](marle-lecture-notes.jpg)
-
 While working on my dissertation on the history of chemistry, I photographed
 several thousand pages of handwritten lecture notes. The page above is on the
 proper use of marles, a broad category of calcium-rich fertilizers used in
