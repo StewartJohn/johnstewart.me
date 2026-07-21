@@ -18,6 +18,38 @@ read it.
 This page was recovered from my old WordPress site, so a few of the links point
 back to archived or older posts.
 
+## 2026
+
+1. Ron Chernow, *Mark Twain*
+2. Alan Siegel, *Stupid TV, Be More Funny: How the Golden Era of The Simpsons Changed Television-and America-Forever*
+3. Matt Dinniman, *Dungeon Crawler Carl*
+4. Matt Dinniman, *Carl's Doomsday Scenario*
+5. Matt Dinniman, *The Dungeon Anarchist's Cookbook*
+6. Matt Dinniman, *The Gate of the Feral Gods*
+7. Matt Dinniman, *The Butcher's Masquerade*
+## 2025
+
+1. Emily Tesh, *Some Desperate Glory*
+2. John Le Carré, *A Murder of Quality*
+3. John Le Carré, *The Looking Glass War*
+4. John Le Carré, *Tinker, Tailor, Soldier, Spy*
+5. Stanley Tucci, *Taste: My Life through Food*
+6. John Le Carré, *The Honourable Schoolboy*
+7. David McCloskey, *The Seventh Floor*
+8. Ally Carter, *The Blonde Who Came in From the Cold*
+9. Ally Carter, *The Blonde Identity*
+10. Lizzy Goodman, *Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001-2011*
+11. Mick Herron, *Bad Actors*
+12. Rob Harvilla, *60 Songs that Explain the '90s*
+13. Mick Herron, *Clown Town*
+14. William Gibson, *Pattern Recognition*
+15. William Gibson, *Spook Country*
+16. William Gibson, *Zero History*
+17. Ezra Klein and Derek Thompson, *Abundance*
+18. Sarah Wynn-Williams, *Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism*
+19. V. E. Schwab, *Bury Our Bones in the Midnight Soil*
+20. Rachael Lippincott, *Pride and Prejudice and Pittsburgh*
+21. Sarah MacLean, *These Summer Storms*
 ## 2024
 
 1. John Scalzi, *Starter Villain*
@@ -35,6 +67,21 @@ back to archived or older posts.
 13. Mark Henshaw, *The Last Man in Tehran*
 14. Kara Swisher, *Burn Book*
 15. Mick Herron, *The Secret Hours*
+16. David McCloskey, *Damascus Station*
+17. David McCloskey, *Moscow X*
+18. Rhaina Cohen, *The Other Significant Others; Reimagining Life with Friendship at the Center*
+19. Charles Cumming, *A Foreign Country*
+20. Kiley Reid, *Come & Get It*
+21. Kevin Kwan, *Crazy Rich Asians*
+22. Kevin Kwan, *China Rich Girlfriend*
+23. Kevin Kwan, *Rich People Problems*
+24. Kevin Kwan, *Lies and Weddings*
+25. Jonathan Haidt, *The Anxious Generation*
+26. Oliver Burkeman, *Four Thousand Weeks: Time Management for Mortals*
+27. Jo Baker, *Longbourn*
+28. Katie Quinn, *The Alice Network*
+29. Kathleen Sheppard, *Women in the Valley of the Kings: The Untold Story of Women Egyptologists in the Gilded Age*
+30. Nick Harkaway, *Karla's Choice*
 
 ## 2023
 
@@ -174,23 +221,23 @@ back to archived or older posts.
 7. Alison Bechdel, *Fun Home* (Mar 3)
 8. Mike Lambert, *A Beginner's Guide to Doing Your Education Research Project* (Mar 8)
 9. Yukito Kishiro, *Alita Battle Angel* (Mar 10)
-10. [Peter Brown, *The Wild Robot*](https://johnastewart.org/reading/roz-the-wild-robot/) (Mar 13)
+10. Peter Brown, *The Wild Robot* (Mar 13)
 11. Becky Chambers, *The Long Way to a Small, Angry Planet* (Mar 22, audiobook)
 12. Evan Ratliff, *The Mastermind* (Mar 22)
 13. Michele Obama, *Becoming* (Mar 22)
 14. Becky Chambers, *A Closed and Common Orbit* (Mar 24)
 15. Savin-Baden & Tombs, *Research Methods for Education in the Digital Age* (April 7)
 16. Becky Chambers, *Record of a Spaceborn Few* (April 12)
-17. [Peter Brown, *The Wild Robot Escapes*](https://johnastewart.org/reading/roz-the-wild-robot/) (April 16)
-18. [Sally Rooney, *Conversations with Friends*](https://johnastewart.org/week-in-review/week-in-review-4-15-4-19/) (April 16)
-19. [Diane Setterfield, *The Thirteenth Tale*](https://johnastewart.org/week-in-review/week-in-review-4-15-4-19/) (April 19)
-20. [Tressie McMillan Cottom, *Thick*](https://johnastewart.org/week-in-review/week-in-review-4-20-4-26/) (April 20)
-21. [Sally Rooney, *Normal People*](https://johnastewart.org/week-in-review/week-in-review-4-29-5-3/) (April 30)
-22. [Shoshana Zuboff, *The Age of Surveillance Capitalism*](https://johnastewart.org/week-in-review/week-in-review-4-29-5-3/) (May 2)
-23. [*Spider-Man/Spider-Gwen* "Sitting in a Tree" collection](https://johnastewart.org/week-in-review/week-in-review-4-29-5-3/) (May 3)
-24. [Andrew Sean Greer, *Less*](https://johnastewart.org/week-in-review/weeks-in-review-5-4-5-19/) (May 6)
-25. [Meg Wolitzer, *The Female Persuasion*](https://johnastewart.org/week-in-review/weeks-in-review-5-4-5-19/) (May 9)
-26. [Michael Eric Dyson, *What Truth Sounds Like*](https://johnastewart.org/week-in-review/weeks-in-review-5-4-5-19/) (May 14)
+17. Peter Brown, *The Wild Robot Escapes* (April 16)
+18. Sally Rooney, *Conversations with Friends* (April 16)
+19. Diane Setterfield, *The Thirteenth Tale* (April 19)
+20. Tressie McMillan Cottom, *Thick* (April 20)
+21. Sally Rooney, *Normal People* (April 30)
+22. Shoshana Zuboff, *The Age of Surveillance Capitalism* (May 2)
+23. *Spider-Man/Spider-Gwen* "Sitting in a Tree" collection (May 3)
+24. Andrew Sean Greer, *Less* (May 6)
+25. Meg Wolitzer, *The Female Persuasion* (May 9)
+26. Michael Eric Dyson, *What Truth Sounds Like* (May 14)
 27. SerialBox, *The Vela* (May 18)
 28. Unger, *Benjamin Rush* (May 19)
 29. Linda Leung, *Technologies of Displacement* (May 22)
