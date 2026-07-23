@@ -88,7 +88,7 @@ than indifference to their suffering.
 ### *Chemical Affinity in Eighteenth-Century Scottish Physiology and Agriculture*
 
 PhD dissertation, University of Oklahoma, 2013. Supervisor: Peter Barker.
-[Dissertation PDF](https://johnastewart.org/wp-content/uploads/2020/12/Dissertation-Final-Version.pdf)
+[Dissertation PDF](https://shareok.org/bitstreams/654ccafa-fce2-43f0-bc70-560972294169/download)
 
 This dissertation re-centers eighteenth-century chemistry around the theory of
 chemical affinity rather than treating combustion and the French Chemical
