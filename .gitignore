@@ -5,3 +5,6 @@ resources/_gen/
 
 # macOS
 .DS_Store
+
+# Obsidian editor config (local vault state)
+.obsidian/
