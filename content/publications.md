@@ -125,7 +125,7 @@ outdated orthodoxy.
 ### *Richard Kirwan's Chemistry: Heat, Affinity, and Phlogiston in the 1780s*
 
 MA thesis, University of Oklahoma, 2008.
-[Thesis PDF](https://johnastewart.org/wp-content/uploads/2014/07/KirwanThesis.pdf)
+[Thesis PDF](/files/Stewart-2008-Richard-Kirwans-Chemistry.pdf)
 
 This thesis reclaims Richard Kirwan from his reputation as chemistry's failed
 phlogiston holdout by reconstructing his 1780s chemistry as a coherent,
