@@ -5,7 +5,7 @@ slug: reading-list
 tags:
   - Books
   - Reading
-summary: A recovered reading log from the old site, tracking books read from 2019 through early 2024.
+summary: A recovered reading log from the old site, tracking books read from 2019 through 2026.
 originalUrl: https://johnastewart.org/reading-list/
 archiveUrl: https://web.archive.org/web/20240417003305/https://johnastewart.org/reading-list/
 ---
@@ -27,6 +27,8 @@ back to archived or older posts.
 5. Matt Dinniman, *The Dungeon Anarchist's Cookbook*
 6. Matt Dinniman, *The Gate of the Feral Gods*
 7. Matt Dinniman, *The Butcher's Masquerade*
+8. Matt Dinniman, *The Eye of the Bedlam Bride*
+9. Matt Dinniman, *This Inevitable Ruin*
 ## 2025
 
 1. Emily Tesh, *Some Desperate Glory*
