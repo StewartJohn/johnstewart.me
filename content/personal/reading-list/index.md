@@ -29,6 +29,8 @@ back to archived or older posts.
 7. Matt Dinniman, *The Butcher's Masquerade*
 8. Matt Dinniman, *The Eye of the Bedlam Bride*
 9. Matt Dinniman, *This Inevitable Ruin*
+10. Matt Dinniman, *A Parade of Horribles*
+11. Daisy Hay, *Dinner with Joseph Johnson*
 ## 2025
 
 1. Emily Tesh, *Some Desperate Glory*
