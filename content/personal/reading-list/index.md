@@ -31,6 +31,9 @@ back to archived or older posts.
 9. Matt Dinniman, *This Inevitable Ruin*
 10. Matt Dinniman, *A Parade of Horribles*
 11. Daisy Hay, *Dinner with Joseph Johnson*
+12. Ian Graham, *How to Win the Premier League*
+13. Grant Ginder, *So Old, So Young*
+
 ## 2025
 
 1. Emily Tesh, *Some Desperate Glory*
